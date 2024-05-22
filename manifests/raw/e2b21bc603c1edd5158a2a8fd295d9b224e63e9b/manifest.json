@@ -1,0 +1,257 @@
+---
+added: '2024-05-22 05:52:31.693564'
+thumbnail: http://localhost:8182/iiif/3/IMG_6744.jpg/full/max/0/default.jpg
+title:
+- en:
+  - de interpretatione
+user: lillyosburg
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lillyosburg.github.io/annonatate/manifests/raw/e2b21bc603c1edd5158a2a8fd295d9b224e63e9b/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "de interpretatione"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Das Teilprojekt \"Prozesse der Traditionsbildung in der De interpretatione-Kommentierung der Sp\u00e4tantike\" untersucht die sp\u00e4tantiken Kommentierungen der Aristotelischen Schrift De interpretatione. Ziel des Projekts ist es, durch Analysen der Argumentationsstrategien und der Methoden des Wissenstransfers die Dynamiken der Traditionsbildungsprozesse in den Schulinstitutionen sichtbar zu machen und Erkenntnisse \u00fcber die Wechselwirkungen zwischen philosophischer Exegese, philologischer Textarbeit und curricularem Unterrichtsbetrieb und seinen gesellschaftlichen und kulturellen Funktionen zu gewinnen. Dazu werden neben den Organon-Kommentaren auch weitere bildungsgeschichtlich relevante Texte herangezogen."
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Material"
+        ]
+      },
+      "value": {
+        "en": [
+          "Papier"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Hand"
+        ]
+      },
+      "value": {
+        "en": [
+          "Demetrios Angelos"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Provenance"
+        ]
+      },
+      "value": {
+        "en": [
+          "Italien"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "Pinakes"
+        ]
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "TEI metadata"
+        ]
+      },
+      "format": "text/xml",
+      "profile": "TEI PROFILE HERE"
+    }
+  ],
+  "items": [
+    {
+      "id": "http://993018fc-13ad-46ef-a6b0-f35b336fbfd3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_6744"
+        ]
+      },
+      "height": 4613,
+      "width": 3204,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8182/iiif/3/IMG_6744.jpg/full/pct:6/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 200
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://993018fc-13ad-46ef-a6b0-f35b336fbfd3/items1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8182/iiif/3/IMG_6744.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4613,
+                "width": 3204,
+                "service": [
+                  {
+                    "id": "http://localhost:8182/iiif/3/IMG_6744",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "http://993018fc-13ad-46ef-a6b0-f35b336fbfd3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://daf0d71b-50ef-4c57-abdf-c3a50ba18ce6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_7161"
+        ]
+      },
+      "height": 4613,
+      "width": 3204,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8182/iiif/3/IMG_7161.jpg/full/pct:6/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 200
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://daf0d71b-50ef-4c57-abdf-c3a50ba18ce6/items1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8182/iiif/3/IMG_7161.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4613,
+                "width": 3204,
+                "service": [
+                  {
+                    "id": "http://localhost:8182/iiif/3/IMG_7161",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "http://daf0d71b-50ef-4c57-abdf-c3a50ba18ce6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://9ca403f1-cbc1-4252-8415-464c6633fcd1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_7186"
+        ]
+      },
+      "height": 4613,
+      "width": 3204,
+      "thumbnail": [
+        {
+          "id": "http://localhost:8182/iiif/3/IMG_7186.jpg/full/pct:6/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 200
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://9ca403f1-cbc1-4252-8415-464c6633fcd1/items1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "http://localhost:8182/iiif/3/IMG_7186.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4613,
+                "width": 3204,
+                "service": [
+                  {
+                    "id": "http://localhost:8182/iiif/3/IMG_7186",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "http://9ca403f1-cbc1-4252-8415-464c6633fcd1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "id": "[['IMG_6744', 'IMG_7161', 'IMG_7186']]",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nose",
+        "language": "de",
+        "format": "text/plain"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "http://993018fc-13ad-46ef-a6b0-f35b336fbfd3",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><path d='M1353 1780 1488 2018 1573 1841 ' /></g></svg>"
+        }
+      }
+    }
+  ]
+}
